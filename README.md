@@ -1,6 +1,8 @@
 # EnergyTrader
 A simple game about purchasing energy providing assets and making money. Designed for kids ranging from 7 to 12 to briefly display energy and money relation. The game was intended to be small part of a general application regarding to energy consumption. It was intended to be used as a sample project in the "general application" Kids' Education part. Player authentication was made through Azure Playfab.
 
+Made with: Unity 2022.3.1lf1
+
 # MEDIA
 ## GIF
 ![Movie_001-ezgif com-video-to-gif-converter](https://github.com/Oguzoz1/EnergyTrader/assets/96492946/ca268bd1-c654-4c52-b3ae-dfe3723a38fa)
